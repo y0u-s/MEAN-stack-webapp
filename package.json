@@ -1,0 +1,22 @@
+{
+  "name": "meanstack",
+  "version": "1.0.0",
+  "description": "Mean-stack webapp tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y0u-s/MEAN-stack-webapp.git"
+  },
+  "author": "Youssef Lakdime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y0u-s/MEAN-stack-webapp/issues"
+  },
+  "homepage": "https://github.com/y0u-s/MEAN-stack-webapp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
